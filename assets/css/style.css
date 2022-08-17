@@ -249,3 +249,14 @@ header {
         opacity: 1;
     }
 }
+
+.copyright {
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+    text-align: center;
+    color: var(--secondary-color);
+}
+.copyright a{
+    color: var(--secondary-color);
+}
